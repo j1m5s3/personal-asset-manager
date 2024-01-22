@@ -1,4 +1,3 @@
-Welcome!
 Your **Personal Asset Manager (PAM)** documentation
 ===================================
 
